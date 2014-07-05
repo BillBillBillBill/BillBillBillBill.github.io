@@ -1,5 +1,5 @@
 ---
-layout: home  <!-- 调用home模板 -->
+layout: home
 ---
 
 <div class="index-content project">
